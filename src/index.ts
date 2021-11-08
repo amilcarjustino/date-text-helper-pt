@@ -1,1 +1,1 @@
-export default ()=> console.log("Hello Ami");
+export const showOwner = ()=> console.log("Hello Ami");
