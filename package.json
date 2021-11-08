@@ -1,0 +1,11 @@
+{
+    "name": "date-text-helper-pt",
+    "version": "0.0.1",
+    "devDependencies": {
+        "typescript": "^4.4.4"
+    },
+    "scripts": {
+        "test": "tsc"
+    },
+    "main": "./src/index.ts"
+}
