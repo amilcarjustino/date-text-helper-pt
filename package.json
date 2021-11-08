@@ -7,6 +7,7 @@
     "scripts": {
         "tsc": "tsc"
     },
-    "main": "./lib/index.ts",
+    "main": "./lib/index.js",
+    "types": "./lib/index.d.ts",
     "files": ["lib/**/*"]
 }
