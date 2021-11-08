@@ -1,1 +1,1 @@
-export declare const showOwner: () => void;
+export declare function myFn(): void;
